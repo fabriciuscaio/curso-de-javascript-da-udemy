@@ -43,11 +43,11 @@ console.log(beleza.indexOf('rteza'));
 console.log(beleza.indexOf('Um'));
 
 
-// o indexOf mostra em quando caractere inicia a palavra pedida
+// o indexOf mostra em quando o caractere inicia a palavra pedida
 
 console.log(beleza.lastIndexOf('lindo'));
 
-// lasIndexOf mostra a posição normal, mas pega o primeiro aparecimento da coisa analisando de trás pra frente
+// lastIndexOf mostra a posição normal, mas pega o primeiro aparecimento da coisa analisando de trás pra frente
 
 console.log(beleza.indexOf('n'));
 
@@ -107,7 +107,7 @@ console.log(beleza.slice(3, -5));
 
 console.log(beleza.split(' '));
 
-// o split separa a string pelo caractere inserido, no caso acime foi o espaço
+// o split separa a string pelo caractere inserido, no caso acima foi o espaço
 
 console.log(beleza.split('a'));
 
