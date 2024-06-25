@@ -69,4 +69,3 @@ let um = 1.00
 console.log(Number.isInteger(um));
 console.log(Number.isInteger(numA));
 
-num1 = parseFloat(num1);
