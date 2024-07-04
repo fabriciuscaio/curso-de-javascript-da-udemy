@@ -12,7 +12,7 @@ console.log(num1);
 console.log(num2);
 console.log(num3);
 
-// o "round" arredonda pra cima de passar da metade e pra baixo se for menos da metade
+// o "round" arredonda pra cima se passar da metade e pra baixo se for menos da metade
 
 let num4 = 4.4654
 let num5 = Math.round(num4);
@@ -29,7 +29,7 @@ console.log(num7);
 
 console.log(Math.max(3, 1, 543, 9000, 2.5, 88));
 
-// Math.mon mostra o menor
+// Math.min mostra o menor
 
 console.log(Math.min(717, 829, 44444, -101, 1.5, 18, -3, 30));
 
